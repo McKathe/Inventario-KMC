@@ -1,0 +1,12 @@
+.product-search {
+  margin-bottom: 1rem;
+}
+
+.product-search__input {
+  padding: 0.5rem;
+  width: 80%;
+}
+
+.product-search__button {
+  padding: 0.5rem;
+}

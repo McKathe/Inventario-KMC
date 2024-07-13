@@ -1,0 +1,16 @@
+.product-item {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  width: calc(33% - 2rem);
+  box-sizing: border-box;
+}
+
+.product-item__name {
+  margin: 0 0 1rem 0;
+}
+
+.product-item__category,
+.product-item__manufacturer,
+.product-item__stock {
+  margin: 0.5rem 0;
+}
